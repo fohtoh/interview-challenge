@@ -2,17 +2,21 @@
 
 ![Alt text](/public/images/1.png "Optional title")
 
-- Create a component
+- Create a textfield component
   - Displays a textfield that a user can type text into.
   - Displays a label that will define what the textfield is used for.
-- On the page, use the component.
+- On the page, use that component for the following items.
   - Create a Name field.
-  - Create a Birthdate field.
-- Create a button component that will take the button text and action.
-- On the page, add 2 buttons.
+  - Create a Birthday field.
+- Create a button component
+  - Takes the button text
+  - Takes the buttons action
+- On the page, use the button component and add 2 buttons.
   - Save - Clicking the save button, saves the values in each field into state.
   - Cancel - Clears state, and clears both textboxes.
-- Display what we have in the two state items in a section below the buttons.
+- Below the buttons, display what we have in the two state items. This can simply be text below the buttons that displays the values.
+
+![Alt text](/public/images/2.png "Optional title")
 
 ```css
 Background: #E0E2E2
